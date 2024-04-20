@@ -3,7 +3,7 @@
 My name is Dooinn, and I'm a student at MSc Data Science & AI at DSTI. I'm interested in qll 5hintw Python & Data Science!
 
 - 🔭 I’m currently working on Data Science/Analytics
-- 🌱 I’m currently learning NLP & LLM
+- 🌱 I recently built a program that recommend pickup locations for taxi drivers, check it out [here](https://github.com/dooinn/taxi_location_recommender/blob/main/slides_deck.pdf)
 - 📫 How to reach me: Click my LinkedIn profile!
 
 <!--
