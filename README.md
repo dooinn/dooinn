@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on Data Science/Analytics
+- 🌱 I’m currently learning NLP & Machine Learning
+- 📫 How to reach me: Click my LinkedIn profile!
+
 <!--
 **dooinn/dooinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
