@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Data Science/Analytics
-- 🌱 I’m currently learning NLP & Machine Learning
+- 🌱 I’m currently learning NLP & LLM
 - 📫 How to reach me: Click my LinkedIn profile!
 
 <!--
