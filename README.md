@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Dooinn, and I'm a student at MSc Data Science & AI at DSTI. I'm interested in qll 5hintw Python & Data Science!
 
 - 🔭 I’m currently working on Data Science/Analytics
 - 🌱 I’m currently learning NLP & LLM
