@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dooinn, and I'm a student at MSc Data Science & AI at DSTI. I'm interested in qll 5hintw Python & Data Science!
+My name is Dooinn, and I'm a student at MSc Data Science & AI at DSTI. I'm interested in AI & Data Science!
 
 - 🔭 I’m currently working on Data Science/Analytics
 - 🌱 I've been recently building a program, that predicts different art styles and recommed similar artists , check it out [here]([https://github.com/dooinn/taxi_location_recommender/blob/main/slides_deck.pdf](https://github.com/dooinn/art_style_classifier)
