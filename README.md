@@ -3,7 +3,7 @@
 My name is Dooinn, and I'm a student at MSc Data Science & AI at DSTI. I'm interested in AI & Data Science!
 
 - 🔭 I’m currently working on Data Science/Analytics
-- 🌱 I've been recently building a program, that predicts different art styles and recommed similar artists , check it out [here]([https://github.com/dooinn/taxi_location_recommender/blob/main/slides_deck.pdf](https://github.com/dooinn/art_style_classifier)
+- 🌱 The most recent porject: [Proudct Feedback Analyzer - NLP project @ DSTI](https://github.com/dooinn/product_feedback_analyzer)
 - 📫 How to reach me: Click my LinkedIn profile!
 
 <!--
